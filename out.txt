@@ -1,8 +1,0 @@
-char: 1
-widechar_t: 2
-int: 4
-short int: 2
-float: 4
-long: 4
-double: 8
-long double: 12
